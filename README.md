@@ -37,11 +37,11 @@ Web Dashboard Development: Build a teacher dashboard (using HTML/JS/Tailwind) to
 
 # PROGRAM
 
-# Name: Kathiravan (212222230063)
+# Name: K R HASHISH VIDYA SAGAR
 
 
 
-# Register Number: 212222230063
+# Register Number: 212222230047
 
 
 
